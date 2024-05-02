@@ -1,2 +1,2 @@
 # iotea
-IoT Platform for home smart devices
+IoT Platform for smart home devices
