@@ -1,7 +1,7 @@
 package main
 
 import (
-	"iotea/backend/routes"
+	"iotea/routes"
 	"os"
 
 	"github.com/gin-gonic/gin"
